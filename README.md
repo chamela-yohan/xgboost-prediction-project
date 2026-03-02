@@ -43,7 +43,7 @@ $$Similarity Score = \frac{(\sum Gradient)^2}{\sum Hessian + \lambda}$$
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/xgboost-prediction-project.git](https://github.com/your-username/xgboost-prediction-project.git)
+   git clone [https://github.com/chamela-yohan/xgboost-prediction-project.git](https://github.com/chamela-yohan/xgboost-prediction-project.git)
 
 2. Install dependencies:
     pip install -r requirements.txt
@@ -51,7 +51,7 @@ $$Similarity Score = \frac{(\sum Gradient)^2}{\sum Hessian + \lambda}$$
 3. Open main_project.ipynb in Jupyter Notebook and run all cells.
 
 ## 📊 Results & Insights
-* Model Accuracy: The model achieved an R-squared score of [ඔයාට ආපු අගය මෙතන දාන්න, උදා: 0.82].
+* Model Accuracy: The model achieved an R-squared score of 0.8141.
 * Top Features: Through Feature Importance (Gain), we found that Median Income is the strongest predictor of house prices.
 
 ## 📁 Project Structure
